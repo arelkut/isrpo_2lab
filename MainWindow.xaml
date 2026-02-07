@@ -1,54 +1,5 @@
-﻿<Window x:Class="laba2._1.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:laba2._1"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="970">
-    <Canvas>
-
-        <local:CarouselItem Canvas.Left="10" Canvas.Top="300"/>
-
-        <local:CarouselItem Canvas.Left="180" Canvas.Top="360">
-            <local:CarouselItem.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform ScaleX="0.8" ScaleY="0.8"/>
-                    <RotateTransform Angle="15"/>
-                    <SkewTransform AngleX="15"/>
-                </TransformGroup>
-            </local:CarouselItem.RenderTransform>
-        </local:CarouselItem>
-
-        <local:CarouselItem Canvas.Left="380" Canvas.Top="390">
-            <local:CarouselItem.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform ScaleX="0.9" ScaleY="0.9"/>
-                    <RotateTransform Angle="0"/>
-                    <SkewTransform AngleX="0"/>
-                </TransformGroup>
-            </local:CarouselItem.RenderTransform>
-        </local:CarouselItem>
-
-        <local:CarouselItem Canvas.Left="580" Canvas.Top="360">
-            <local:CarouselItem.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform ScaleX="0.8" ScaleY="0.8"/>
-                    <RotateTransform Angle="-15"/>
-                    <SkewTransform AngleX="-15"/>
-                </TransformGroup>
-            </local:CarouselItem.RenderTransform>
-        </local:CarouselItem>
-
-        <local:CarouselItem Canvas.Left="750" Canvas.Top="300">
-            <local:CarouselItem.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform ScaleX="0.6" ScaleY="0.6"/>
-                    <RotateTransform Angle="-20"/>
-                    <SkewTransform AngleX="-20"/>
-                </TransformGroup>
-            </local:CarouselItem.RenderTransform>
-        </local:CarouselItem>
-
-    </Canvas>
+<Window>
+<Grid>
+<Button Content ="Click me"/>
+</Grid>
 </Window>
