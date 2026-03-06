@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "OrderCode": "ORD-001",
+    "CreationDate": "2023-10-01T10:30:00",
+    "ClientCode": "CUST-101",
+    "Services": "Аренда автомобиля Toyota Camry (бизнес класс) на 3 дня",
+    "Status": "Новый"
+  },
+  {
+    "Id": 2,
+    "OrderCode": "ORD-002",
+    "CreationDate": "2023-10-02T11:45:00",
+    "ClientCode": "CUST-102",
+    "Services": "Аренда квадроцикла CFMOTO на 1 день + экипировка",
+    "Status": "В обработке"
+  },
+  {
+    "Id": 3,
+    "OrderCode": "ORD-003",
+    "CreationDate": "2023-10-03T09:15:00",
+    "ClientCode": "CUST-103",
+    "Services": "Аренда катера Sea Ray 190 SPX на 4 часа + инструктор",
+    "Status": "Оплачен"
+  },
+  {
+    "Id": 4,
+    "OrderCode": "ORD-004",
+    "CreationDate": "2023-10-04T14:20:00",
+    "ClientCode": "CUST-104",
+    "Services": "Аренда горного велосипеда Trek на выходные (2 дня)",
+    "Status": "Доставлен"
+  },
+  {
+    "Id": 5,
+    "OrderCode": "ORD-005",
+    "CreationDate": "2023-10-05T16:00:00",
+    "ClientCode": "CUST-105",
+    "Services": "Аренда скутера Honda PCX на 5 дней + шлемы",
+    "Status": "Отменен"
+  },
+  {
+    "Id": 6,
+    "OrderCode": "ORD-006",
+    "CreationDate": "2023-10-06T08:30:00",
+    "ClientCode": "CUST-106",
+    "Services": "Аренда лыжного снаряжения (комплект) на неделю",
+    "Status": "Новый"
+  },
+  {
+    "Id": 7,
+    "OrderCode": "ORD-007",
+    "CreationDate": "2023-10-07T13:10:00",
+    "ClientCode": "CUST-107",
+    "Services": "Аренда яхты Bavaria 46 на день рождения (8 часов)",
+    "Status": "В обработке"
+  },
+  {
+    "Id": 8,
+    "OrderCode": "ORD-008",
+    "CreationDate": "2023-10-08T10:00:00",
+    "ClientCode": "CUST-108",
+    "Services": "Аренда электромобиля Tesla Model 3 на 2 дня",
+    "Status": "Оплачен"
+  },
+  {
+    "Id": 9,
+    "OrderCode": "ORD-009",
+    "CreationDate": "2023-10-09T15:30:00",
+    "ClientCode": "CUST-109",
+    "Services": "Аренда сап-борда на 3 часа",
+    "Status": "Доставлен"
+  },
+  {
+    "Id": 10,
+    "OrderCode": "ORD-010",
+    "CreationDate": "2023-10-10T12:00:00",
+    "ClientCode": "CUST-110",
+    "Services": "Аренда мотоцикла Harley-Davidson на выходные",
+    "Status": "Отменен"
+  },
+  {
+    "Id": 11,
+    "OrderCode": "ORD-011",
+    "CreationDate": "2023-10-11T09:45:00",
+    "ClientCode": "CUST-111",
+    "Services": "Аренда домика на дереве (глемпинг) на 2 ночи",
+    "Status": "Новый"
+  },
+  {
+    "Id": 12,
+    "OrderCode": "ORD-012",
+    "CreationDate": "2023-10-12T11:20:00",
+    "ClientCode": "CUST-112",
+    "Services": "Аренда снаряжения для дайвинга (комплект) на 3 дня",
+    "Status": "В обработке"
+  },
+  {
+    "Id": 13,
+    "OrderCode": "ORD-013",
+    "CreationDate": "2023-10-13T14:15:00",
+    "ClientCode": "CUST-113",
+    "Services": "Аренда внедорожника Land Cruiser на 5 дней",
+    "Status": "Оплачен"
+  },
+  {
+    "Id": 14,
+    "OrderCode": "ORD-014",
+    "CreationDate": "2023-10-14T10:30:00",
+    "ClientCode": "CUST-114",
+    "Services": "Аренда палатки и спальников для кемпинга на 3 дня",
+    "Status": "Доставлен"
+  },
+  {
+    "Id": 15,
+    "OrderCode": "ORD-015",
+    "CreationDate": "2023-10-15T16:45:00",
+    "ClientCode": "CUST-115",
+    "Services": "Аренда гидроцикла Yamaha на 2 часа",
+    "Status": "Отменен"
+  }
+]
